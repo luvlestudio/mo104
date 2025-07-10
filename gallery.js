@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "승민 ♥ 윤아의 모바일 청첩장",
         description: "2025년 8월 23일 일요일♡",
-        imageUrl: "https://i.imgur.com/G61ZSIo.png",
+        imageUrl: "https://i.imgur.com/w9qmgC8.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
